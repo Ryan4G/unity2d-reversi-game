@@ -1,2 +1,2 @@
-# unity2d-reversir-game
-A reversir game made with unity3d.
+# unity2d-reversi-game
+A reversi game made with unity3d.
